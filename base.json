@@ -8,7 +8,7 @@
   "access_key": "{{user `aws_access_key`}}",
   "secret_key": "{{user `aws_secret_key`}}",
   "region": "us-east-2",
-  "source_ami": "ami-05c1fa8df71875112",
+  "source_ami": "ami-YOURAMI",
   "instance_type": "t2.medium",
   "ssh_username": "ubuntu",
   "ami_groups": "all",
